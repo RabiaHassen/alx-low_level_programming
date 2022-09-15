@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
- * positive_or_negative - Print "i is zero" if i = 0,
- * prints "i is positive" if i > 0,
- * prints "i is negative" if i < 0'
+ * positive_or_negative - Prints 'i is zero' if i is 0,
+ * 'i is positive' if i > 0 or 'i is negative' if i < 0
  * @i: The number to check
  *
  */
